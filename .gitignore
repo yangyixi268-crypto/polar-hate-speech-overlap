@@ -218,3 +218,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# PyCharm settings
+.idea/
+
+# Do not upload POLAR data or annotations containing text
+data/*.csv
+!data/sample_ids.csv
+data-public/
