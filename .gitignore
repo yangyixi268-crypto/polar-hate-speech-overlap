@@ -226,3 +226,5 @@ __marimo__/
 data/*.csv
 !data/sample_ids.csv
 data-public/
+!data/pilot_ids.csv
+data/*.xlsx
